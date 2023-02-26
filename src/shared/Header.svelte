@@ -13,9 +13,9 @@
     }
 
     header{
+        width: 100vw;
         padding-block: 1rem;
         box-sizing: border-box;
-        width: 100%;
         min-height: 5rem;
         display: flex;
         justify-content: center;

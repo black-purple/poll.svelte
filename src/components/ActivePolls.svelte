@@ -21,6 +21,11 @@
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
         padding: 1rem;
-        width: 100%;
+        width: 100vw;
+    }
+    @media screen and (max-width: 500px) {
+        div.polls{
+            grid-template-columns: 1fr;
+        }
     }
 </style>

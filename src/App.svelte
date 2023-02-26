@@ -1,6 +1,6 @@
 <script>
-	import Header from "./components/Header.svelte";
-	import Footer from "./components/Footer.svelte";
+	import Header from "./shared/Header.svelte";
+	import Footer from "./shared/Footer.svelte";
 	import ActivePolls from "./components/ActivePolls.svelte";
 	import NewPoll from "./components/NewPoll.svelte";
 	import Tabs from "./shared/Tabs.svelte";

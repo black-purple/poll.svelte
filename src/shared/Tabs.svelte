@@ -35,6 +35,7 @@
         margin-inline: 1rem;
         cursor: pointer;
         border: none;
+        min-width: 45%;
     }
     li:hover{
         border-bottom: .3rem solid #ff3e00;

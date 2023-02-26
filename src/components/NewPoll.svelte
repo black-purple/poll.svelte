@@ -63,4 +63,10 @@
         width: 100%;
         text-align: end;
     }
+    
+    @media screen and (max-width: 500px) {
+        div{
+            width: 90vw;
+        }
+    }
 </style>
