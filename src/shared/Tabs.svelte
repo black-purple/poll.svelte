@@ -35,9 +35,13 @@
         margin-inline: 1rem;
         cursor: pointer;
         border: none;
-        min-width: 45%;
     }
     li:hover{
         border-bottom: .3rem solid #ff3e00;
+    }
+    @media screen and (max-width: 670px) {
+        li{
+            min-width: 45%;
+        }
     }
 </style>

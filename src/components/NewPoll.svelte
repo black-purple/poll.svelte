@@ -49,7 +49,7 @@
 
 <style>
     div{
-        width: 50%;
+        width: 100%;
     }
     label{
         text-align: start !important;
@@ -64,9 +64,9 @@
         text-align: end;
     }
     
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 670px) {
         div{
-            width: 90vw;
+            width: 100%;
         }
     }
 </style>

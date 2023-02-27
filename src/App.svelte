@@ -42,4 +42,14 @@
 		width: 100%;
 		padding: 3rem;
 	}
+	@media screen and (max-width: 670px) {
+        main{
+            width: 100%;
+			padding: 0;
+			margin: 0;
+        }
+		center{
+			padding: 1rem 0;
+		}
+    }
 </style>

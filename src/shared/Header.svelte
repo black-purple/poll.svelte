@@ -13,7 +13,7 @@
     }
 
     header{
-        width: 100vw;
+        width: 100%;
         padding-block: 1rem;
         box-sizing: border-box;
         min-height: 5rem;
